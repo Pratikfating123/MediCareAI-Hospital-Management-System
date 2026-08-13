@@ -1,0 +1,6 @@
+{
+  "name": "MediCare AI",
+  "description": "Smart Hospital Management System with multi-role access control, clinical records, prescriptions, lab tests, pharmacy inventory, billing, PDF generation, and AI assistants.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
