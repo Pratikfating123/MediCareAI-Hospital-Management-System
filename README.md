@@ -292,7 +292,7 @@ Example:
 
 ```markdown
 
-!\[Dashboard](screenshots/dashboard.png)
+(screenshots/dashboard.png)
 
 ```
 
